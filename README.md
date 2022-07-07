@@ -1,2 +1,2 @@
 # SignLens
-NCCU MIS Graduation Project
+NCCU MIS 108 Graduation Project
