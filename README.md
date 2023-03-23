@@ -9,13 +9,13 @@ We hope this project can integrate technology and practical applications, improv
 
 
 ## Speech Recognition  
-![image](images/截圖 2022-11-04 下午3.35.23.png)
+![image](images/SignLanguage.png)
 We utilizes a "speech recognition system" to convert the speech of those with normal hearing into text, which is displayed on the screen of the hearing-impaired individual, allowing them to understand the content even in noisy environments or situations where they cannot recognize lip-reading. 
 - Azure Cognitive Services  
   
 
 ## Sign Language Recognition  
-![image](images/截圖 2022-11-04 下午3.34.50.png)
+![image](images/Speech.png)
 At the same time, the "sign language recognition system" converts sign language and facial expressions into text and displays the text on the screen of those with normal hearing, enabling them to understand the meaning even if they cannot understand sign language.  
 - Machine Learning
 - Mediapipe + Tensorflow (LSTM)  
