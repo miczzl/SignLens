@@ -1,5 +1,5 @@
 # SignLens
-NCCU MIS 108 Graduation Project
+NCCU MIS 108 Graduation Project  
 ![image](images/SignLens.png)
 
 ## Sign Language Recognition
