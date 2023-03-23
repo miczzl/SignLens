@@ -1,6 +1,6 @@
 # SignLens
 NCCU MIS 108 Graduation Project
-![image](images/SignLens.pdf)
+![image](images/SignLens.png)
 
 ## Sign Language Recognition
 - Machine Learning
