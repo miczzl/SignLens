@@ -18,7 +18,7 @@ We utilizes a "speech recognition system" to convert the speech of those with no
 ![image](images/Speech.png)
 At the same time, the "sign language recognition system" converts sign language and facial expressions into text and displays the text on the screen of those with normal hearing, enabling them to understand the meaning even if they cannot understand sign language.  
 - Machine Learning
-- Mediapipe + Tensorflow (LSTM)  
+- Mediapipe + Tensorflow (GRU)  
   
 
 ## Mixed Reality
